@@ -37,7 +37,7 @@ main: #简历主要内容，
     detail: 计算机科学硕士(Merit学位)
 
 - type: skills
-  # name: "技能"
+  name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
