@@ -50,7 +50,7 @@ main: #简历主要内容，
 - type: experience
   name: 工作经验
   content:
-  - title: 百度商桥测试实习生
+  - title: 百度商桥测试开发工程师实习生
     sub: 百度
     duration: "2015年10月 - 2016年3月"
     tags:
