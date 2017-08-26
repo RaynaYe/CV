@@ -60,7 +60,7 @@ main: #简历主要内容，
     - PHP
     - JAVA
     summary: 百度商桥的质量保证工作
-    detail: 曾在北京百度商桥担任测试实习生6个月。期间负责过用户网页端，客户端，server端，ios&安卓手机端以及apple watch端的提测。在此实习过程中，熟悉了Linux操作环境，掌握了基本测试思维和方法如白盒测试, 边界条件测试等，能熟练全面地完成测试用例，熟悉互联网产品上线流程。
+    detail: 百度商桥是为百度的用户及网民提供的沟通平台，由于商桥早期开发基于百度Hi，所以架构和逻辑复杂。6个月实习期间负责过用户网页端，客户端，server端，ios&安卓手机端以及apple watch端的提测。熟悉了Linux操作环境，独立设计过测试方案，掌握了基本测试思维和方法如白盒测试, 边界条件测试等，能熟练全面地完成测试用例，熟悉互联网产品上线流程。
     # open: open
     #可以设置open默认展开
  
@@ -68,34 +68,34 @@ main: #简历主要内容，
   name: 项目经验
   content:
   - title: hadoop平台下的MapReduce实践经验
-    duration: "研究生阶段"
+    duration: "研究生课程设计"
     tags:
     - MapReduce
     - Python
     - JAVA
     detail: 熟悉hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从1.5G的数据中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
-    sub: 开发者
+    sub: 独立开发
     
 
   - title: 使用DNN和CNN对Cifar图片集进行图像识别
-    duration: "研究生阶段"
+    duration: "研究生课程设计"
     tags:
-    - Cifar10
-    - Cifar100
+    - Cifar10／100
+    - DNN，CNN
     - 机器学习
     - Python
     - Tensorflow
-    detail: 基于tensorflow，使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
-    sub: 开发者
+    detail: 基于tensorflow和cifar图片库，在深度神经网络中使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，数据增强data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
+    sub: 独立开发
     
   - title: 一个美妆网站的数据库和后台开发
-    duration: "研究生阶段"
+    duration: "研究生课程设计"
     tags:
     - PHP
     - MySQL
     - 前端
     detail: http://playground.eca.ed.ac.uk/~s1626266/Sub2/MainPage.php。网站实现了登陆，按目录浏览，发帖，收藏，评论，分享至facebook等功能。 本人负责数据库的搭建和PHP后台的所有开发工作。能独立根据需要设计数据库，能熟练使用Mysql对数据库进行增删改查，能熟练使用PHP进行网站开发。
-    sub: 后台开发
+    sub: 独立后台开发
     
   - title: 旅游经验分享网站的开发
     duration: "本科毕业设计"
@@ -104,10 +104,10 @@ main: #简历主要内容，
     - MVC
     - MySQL
     detail: 负责MVC框架下的网站后台开发，以及数据库的搭建。熟悉MVC框架下JavaWeb的开发流程和基本方法。
-    sub: 后台开发
+    sub: 独立开发
     
   - title: 对ebay交易数据的爬虫，建表和空间搜索查询。
-    duration: "研究生期间"
+    duration: "研究生课程设计"
     tags:
     - Java DOM
     - Mysql
@@ -115,7 +115,7 @@ main: #简历主要内容，
     - Lucene
     - MySQL's spatial queries
     detail: 对ebay交易数据进行分析，设计满足第四范式的数据库。对XML格式的ebay交易数据文件进行爬虫并存入数据库中。可搜索与关键词相关的商品并按lucene score排序。 对特定处于某位置的商品，可搜索与其距离小于某个值的所有商品，并按照Lucene score排序。
-    sub: 开发者
+    sub: 独立开发
 
     
 
