@@ -5,7 +5,7 @@
 title: "个人简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "叶思"
-jobtitle: "全职或实习"
+jobtitle: ""
 photo: "assets/img/yesphoto.jpg" #照片可空，不显示
 
 #联系方式
@@ -33,7 +33,7 @@ main: #简历主要内容，
     sub: 天津
     detail: 软件工程 (金融工程双学位)
   - title: The University of Edinburgh (爱丁堡大学)
-    duration: 2016年9月 - 2017年12月
+    duration: 2016年9月 - 2018年1月
     sub: 英国爱丁堡
     detail: 计算机科学硕士(机器学习，大数据方向)
 
