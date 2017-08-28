@@ -31,9 +31,9 @@ main: #简历主要内容，
   - title: 南开大学
     duration: "2012年8月 - 2016年6月"
     sub: 天津
-    detail: 软件工程 (金融工程双学位)
+    detail: 软件工程学士 (金融工程学士双学位)
   - title: The University of Edinburgh (爱丁堡大学)
-    duration: 2016年9月 - 2018年1月
+    duration: 2016年9月 - 2017年12月
     sub: 英国爱丁堡
     detail: 计算机科学硕士(机器学习，大数据方向)
 
