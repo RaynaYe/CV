@@ -35,7 +35,7 @@ main: #简历主要内容，
   - title: The University of Edinburgh (爱丁堡大学)
     duration: 2016年9月 - 2018年1月
     sub: 英国爱丁堡
-    detail: 计算机科学硕士(机器学习，大数据方向)
+    detail: 计算机科学硕士
 
 - type: skills
   name: "技能"
