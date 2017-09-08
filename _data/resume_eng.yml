@@ -1,1 +1,162 @@
 
+# 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
+# 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
+
+title: "Resume"
+lang: "zh" #语言设置 zh表示中文 en 表示英语
+name: "叶思（Ye Si）"
+jobtitle: ""
+photo: "assets/img/yesphoto.jpg" #照片可空，不显示
+
+#联系方式
+contact: #联系方式连接等3~5行
+- text: "yesi1994@126.com" #文本内容
+  href: 'yesi1994@126.com' #链接，无链接则空  
+  icon: 'icons/email.svg' #图标 svg文件
+- text: "15797175351"
+  href: 'tel:15797175351'
+  icon: 'icons/phone.svg'
+- text: "Rayna Ye"
+  href: 'https://github.com/RaynaYe'
+  icon: "icons/github.svg"
+  attr: 'target="_blank"' #新标签页打开
+  # - text: "地址"
+  #   icon: "icons/location.svg"
+
+#main下面是主体内容，类别条数不限
+main: #简历主要内容，
+- type: education #类别为ID
+  name: education #显示名称，空则使用type
+  content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
+  - title: Nankai University
+    duration: "Aug.2012 - Jun.2016"
+    sub: TianJin
+    detail: Bachelor of Software Engineering 
+  - title: The University of Edinburgh 
+    duration: Sep.2016 - Jan.2018
+    sub: Edinburgh, UK
+    detail: Master of Computer Science (merit)
+
+- type: skills
+  name: "Skills"
+  content:
+  - title: Programming Languages
+    items: #itmems 可以小块的方式显示
+    - Python
+    - PHP
+    - Java
+  - title: Skill Group
+    summary: MapReduce,  MySQL, Machine Learning,  TensorFlow,  JavaWeb MVC， Python Numpy&Pandas
+
+- type: experience
+  name: Intern Experience
+  content:
+  - title: Software Development Engineer in Test
+    sub: Baidu
+    duration: "Oct, 2015 - Mar，2016"
+    tags:
+    - QA
+    - Front-side
+    - PHP
+    - JAVA
+    summary: Quality assurance of a communication platform - Baidu Bridge
+    detail: Baidu Bridge provides users of Baidu communication platform. Since baidu bridge is based on Baidu Hi, so the architecture and logic of it are complicated. During 6 months internship period, i was responsible for testing in the user web pages, client, server, ios&, Android mobile terminal and apple watch side. I got Familiar with the Linux operating environment, had independently designed test plan, assisted to complete the pressure test, had the capability of do white box testing, can be skilled to complete wellrouded test cases and familiar with the Internet work processes.
+    # open: open
+    #可以设置open默认展开
+ 
+- type: projects
+  name: Projects
+  content:
+  - title: Mapreduce coding in hadoop
+    duration: "Individual Coursework"
+    tags:
+    - MapReduce
+    - Python
+    - JAVA
+    detail: I am Familiar with the Hadoop system processing flow, can skillfully use MapReduce platform for data extraction, induction and processing. For example: extracting word that appeared only once from large data files, the message file crawler, output each other to send the most message users and the number of messages. Understand how MapReduce works, including the Shuffle, and, Sort processes, the role of combiner, and so on.
+    
+
+  - title: 使用DNN和CNN对Cifar图片集进行图像识别
+    duration: "研究生课程设计"
+    tags:
+    - Cifar10／100
+    - DNN，CNN
+    - 机器学习
+    - Python
+    - Tensorflow
+    detail: 基于tensorflow和cifar图片库，在深度神经网络中使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，数据增强data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
+
+  - title: 一个美妆网站的数据库和后台开发
+    duration: "研究生课程设计"
+    tags:
+    - PHP
+    - MySQL
+    - 前端
+    detail: http://playground.eca.ed.ac.uk/~s1626266/Sub2/MainPage.php。网站实现了登陆，按目录浏览，发帖，收藏，评论，分享至facebook等功能。 本人负责数据库的搭建和PHP后台的所有开发工作。能独立根据需要设计数据库，能熟练使用Mysql对数据库进行增删改查，能熟练使用PHP进行网站开发。
+    sub: 独立后台开发
+    
+  - title: 旅游经验分享网站的开发
+    duration: "本科毕业设计"
+    tags:
+    - Java Web
+    - MVC
+    - MySQL
+    detail: 负责MVC框架下的网站后台开发，以及数据库的搭建。熟悉MVC框架下JavaWeb的开发流程和基本方法。
+    sub: 独立开发
+    
+  - title: 对ebay交易数据的爬虫，建表和空间搜索查询。
+    duration: "研究生课程设计"
+    tags:
+    - Java DOM
+    - Mysql
+    - 数据库范式
+    - Lucene
+    - MySQL's spatial queries
+    detail: 对ebay交易数据进行分析，设计满足第四范式的数据库。对XML格式的ebay交易数据文件进行爬虫并存入数据库中。可搜索与关键词相关的商品并按lucene score排序。 对特定处于某位置的商品，可搜索与其距离小于某个值的所有商品，并按照Lucene score排序。
+    sub: 独立开发
+
+    
+
+    
+ # - title: hadoop平台下的MapReduce实践经验(Python)
+  #  summary: hadoop平台下的MapReduce实践经验(Python)
+  #  detail: 在研究生阶段，学习了hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从1.5G的数据中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
+   #   #md: _data/demo.md
+    #sub:开发者
+   #可继续添加更多内容
+   
+  
+
+#others 其他简略内容(列表)
+others: #其他列表显示
+- type: others #ID可以为空
+  name: '证书奖项'
+  content: #选择需要的格式
+  - 南开大学功能奖学金，南开大学软件学院青志协外联部部长
+  - title: "国创项目:"
+    text: "大学期间参加国家创新型项目：基于双麦克风系统的音色过滤开发应用。 参与算法实践和项目开发，并作为第二作者发表论文至 SMCE 2015。"
+  - title: "英语:"
+    items: #单行列表
+    - 雅思总分7/9分, 阅读8.5分
+    - 英语4级602
+    - 六级500分
+
+#- type: 
+#  name: '其他'
+#  content: #选择需要的格式
+#  - 单行文字
+#  - 如果有可以继续添加
+
+#footer 脚注，打印版和web版不同不显示    
+footer: #脚注多组
+  print: #打印版markdown或者html
+  screen:
+  - text: "简历脚注"
+  #   href: '/'
+  - text: "Made with &hearts; by Si Ye"
+    href: "https://github.com/RaynaYe/CV/"
+
+#页面额外js脚本，如xx统计
+scripts:
+#- src: "assets/js/resume.js"
+#  defer: defer #可以设置defer或者sync异步加载
