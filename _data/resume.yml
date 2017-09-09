@@ -129,7 +129,7 @@ main: #简历主要内容，
 
 others: #其他列表显示
 - type: others #ID可以为空
-name: '证书奖项'
+name: ''
 content: #选择需要的格式
   - Gongneng Scholarhip in NanKai University, President of volunteer association of software college in NanKai University.
   - title: "National innovative projects "
