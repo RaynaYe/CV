@@ -73,7 +73,7 @@ main: #简历主要内容，
     - MapReduce
     - Python
     - JAVA
-    detail:  I am Familiar with the Hadoop system processing flow, can skillfully use MapReduce platform for data extraction, induction and processing. For example: extracting word that appeared only once from large data files, the message file crawler, output each other to send the most message users and the number of messages. Understand how MapReduce works, including the Shuffle and Sort processes, the role of combiners, and so on. 
+    detail: I am  
     sub:  独立后台开发
 
   - title: The picture classification using DNN and CNN in Tensorflow
