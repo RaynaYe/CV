@@ -74,7 +74,7 @@ main: #简历主要内容，
     - Python
     - JAVA
     detail: I am Familiar with the Hadoop system processing flow, can skillfully use MapReduce platform for data extraction, induction and processing. For example, extracting word that appeared only once or most frequently from large data files. Understand how MapReduce works, including the Shuffle and Sort processes, the role of combiners, and so on. 
-    sub:  独立后台开发
+    
 
   - title: The picture classification using DNN and CNN in Tensorflow
     duration: "Individual Coursework"
@@ -85,7 +85,7 @@ main: #简历主要内容，
     - Python
     - Tensorflow
     detail: 基于tensorflow和cifar图片库，在深度神经网络中使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，数据增强data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
-    sub: 独立后台开发
+    
     
   - title: 一个美妆网站的数据库和后台开发
     duration: "研究生课程设计"
