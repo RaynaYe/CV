@@ -67,13 +67,13 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: Mapreduce coding in hadoop
+  - title: Mapreduce coding in hadoop 
     duration: "Individual Coursework"
     tags:
     - MapReduce
     - Python
     - JAVA
-    detail: I am  
+    detail: I am Familiar with the Hadoop system processing flow, can skillfully use MapReduce platform for data extraction, induction and processing.
     sub:  独立后台开发
 
   - title: The picture classification using DNN and CNN in Tensorflow
