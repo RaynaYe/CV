@@ -130,15 +130,15 @@ main: #简历主要内容，
 others: #其他列表显示
 - type: others #ID可以为空
 name: '证书奖项'
-#  content: #选择需要的格式
-#  - "Gongneng Scholarhip in NanKai University" , President of volunteer association of software college in NanKai University.
-#  - title: "National innovative projects:"
-#    text: The second auther of " Volice filtration based on double-mic system " on SMCE 2015。"
-#  - title: "英语:"
-#    items: #单行列表
-#    - IELTS 7, Reading 8.5
-#    - CET4 602
-#    - CET6 500
+content: #选择需要的格式
+  - "Gongneng Scholarhip in NanKai University" , President of volunteer association of software college in NanKai University.
+  - title: "National innovative projects:"
+    text: The second auther of " Volice filtration based on double-mic system " on SMCE 2015。"
+  - title: "English "
+    items: #单行列表
+    - IELTS 7, Reading 8.5
+    - CET4 602
+    - CET6 500
 
 #- type: 
 #  name: '其他'
