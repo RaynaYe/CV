@@ -49,7 +49,7 @@ main: #简历主要内容，
     summary: MapReduce,  MySQL, Machine Learning,  TensorFlow,  JavaWeb MVC， Python Numpy&Pandas
 
 - type: experience
-  name: Intern Experience
+  name: Intern 
   content:
   - title: Software Development Engineer in Test
     sub: Baidu
