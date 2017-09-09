@@ -76,8 +76,8 @@ main: #简历主要内容，
     detail: I am Familiar with the Hadoop system processing flow, can skillfully use MapReduce platform for data extraction, induction and processing. For example: extracting word that appeared only once from large data files, the message file crawler, output each other to send the most message users and the number of messages. Understand how MapReduce works, including the Shuffle, and, Sort processes, the role of combiner, and so on.
     
 
-  - title: 使用DNN和CNN对Cifar图片集进行图像识别
-    duration: "研究生课程设计"
+  - title: The picture classification using DNN and CNN in Tensorflow
+    duration: "Individual Coursework"
     tags:
     - Cifar10／100
     - DNN，CNN
