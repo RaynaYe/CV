@@ -48,7 +48,7 @@ main: #简历主要内容，
   - title: Skill Group
     summary: MapReduce,  MySQL,  机器学习,  TensorFlow,  JavaWeb MVC， Python Numpy&Pandas
 
-- type: experience
+- type: projects
   name: 工作经验
   content:
   - title: 百度国际化测试开发工程师 - 变现方向负责人
