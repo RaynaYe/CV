@@ -51,8 +51,8 @@ main: #简历主要内容，
 - type: experience
   name: 工作经验
   content:
-  - title: 百度商桥测试开发工程师实习生
-    sub: 百度
+  - title: 百度国际化测试开发工程师 - 变现方向负责人
+    sub: 百度国际化
     duration: "2015年10月 - 2016年3月"
     tags:
     - QA
