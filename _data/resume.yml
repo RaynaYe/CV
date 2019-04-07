@@ -95,6 +95,24 @@ main: #简历主要内容，
 - type: projects
   name: 项目经验
   content:
+  - title: Wordlog的解析流程
+    duration: "研究生课程设计"
+    tags:
+    - MapReduce
+    - Python
+    - Wordlog大数据
+    detail: 熟悉hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从大数据文件中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
+    sub: 项目独立开发
+    
+  - title: 旅游经验分享网站的开发
+    duration: "本科毕业设计"
+    tags:
+    - Java Web
+    - MVC
+    - MySQL
+    detail: 负责MVC框架下的网站后台开发，以及数据库的搭建。熟悉MVC框架下JavaWeb的开发流程和基本方法。
+    sub: 独立开发
+  
   - title: hadoop平台下的MapReduce实践经验
     duration: "研究生课程设计"
     tags:
