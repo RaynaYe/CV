@@ -69,8 +69,7 @@ main: #简历主要内容，
     tags:
     - 业务需求把控
     - 测试skills
-    - 测试技术栈
-    detail: 1) 敏捷开发，个人story数量平均达到10个／周；有主导产品线测试迭代的能力<br>2)能熟练完成接口测试，脚本测试，性能测试等测试项目，掌握jmeter，postman，cutrloader等测试工具
+    detail: 1) 敏捷开发，个人story数量平均达到10个／周；有主导产品线测试迭代的能力,<br>  2)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cutrloader等测试工具，有快速脚本专项测试能力
 
 - type: projects
   name: 项目经验
