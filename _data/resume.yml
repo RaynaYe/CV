@@ -47,7 +47,14 @@ main: #简历主要内容，
     - Shell
     - Java
   - title: Skill Group
-    summary: odp, nginx, vue, Mysql，redis, MapReduce+Hadoop, 机器学习+TensorFlow
+    items:
+    - ODP
+    - Nginx
+    - VUE
+    - Mysql
+    - Redis
+    - MapReduce+Hadoop
+    - 机器学习+TensorFlow
 
 - type: projects
   name: 工作经验 
