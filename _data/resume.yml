@@ -98,7 +98,7 @@ main: #简历主要内容，
     - 自研4个变现效率提升工具
     - 日志回归工具
     - 开发框架：vue+php(odp)
-    detail: 1) 负责维护稳定的线下代码库，线上线下分离，提供前后端RD&QA稳定的docker环境，提高测试和联调效率 <br> &nbsp &nbsp &nbsp 2) 独立研发变现效率提升工具4个 <br> &nbsp &nbsp 3)独立开发日志自动回归工具，集成至jenkins job流水线中代替人为check日志
+    detail: 1) 负责维护稳定的线下代码库，线上线下分离，提供前后端RD&QA稳定的docker环境，提高测试和联调效率 <br> &nbsp &nbsp 2) 独立研发变现效率提升工具4个 <br> &nbsp &nbsp 3)独立开发日志自动回归工具，集成至jenkins job流水线中代替人为check日志
     
 - type: projects
   name: 项目经验
@@ -109,7 +109,7 @@ main: #简历主要内容，
     - MapReduce
     - Python
     - Wordlog大数据
-    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br> &nbsp &nbsp2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> &nbsp &nbsp 3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlo中的上屏率，输入成本等多项指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
+    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br> &nbsp &nbsp 2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> &nbsp &nbsp 3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlo中的上屏率，输入成本等多项指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
     sub: 项目独立开发
     
   - title: BFE项目
