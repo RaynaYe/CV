@@ -51,7 +51,7 @@ main: #简历主要内容，
 - type: projects
   name: 工作经验 
   content:
-  - title: 测试开发工程师 - 变现方向负责人
+  - title: 测试开发工程师 - 变现后端测试方向负责人
     sub: 百度国际化
     duration: "2018年2月 - 2019年4月"
     tags:
@@ -64,12 +64,13 @@ main: #简历主要内容，
     detail: 国际化变现项目是依托在日文输入法simeji和欧美输入法facemoji上的变现业务。 该业务基于巧妙的广告场景，集成了大数据处理和高点击率的AI推荐排序模型，依托于稳定的odp服务和架构部署，在输入法行业中实现了很高的变现能力。
     # open: open
     #可以设置open默认展开
+    
   - title: 基础质量保障
     tags:
-    - 需求迭代
-    - 自动化测试体系
-    - 监控体系
-    detail: 1<br>2
+    - 业务需求把控
+    - 测试skills
+    - 测试技术栈
+    detail: 1) 敏捷开发，个人story数量平均达到10个／周；有主导产品线测试迭代的能力<br>2)能熟练完成接口测试，脚本测试，性能测试等测试项目，掌握jmeter，postman，cutrloader等测试工具
 
 - type: projects
   name: 项目经验
