@@ -69,7 +69,7 @@ main: #简历主要内容，
     - 需求迭代
     - 自动化测试体系
     - 监控体系
-    detail: 1
+    detail: 1<br>2
 
 - type: projects
   name: 项目经验
