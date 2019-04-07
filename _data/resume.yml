@@ -49,7 +49,7 @@ main: #简历主要内容，
     summary: odp, nginx, vue, Mysql，redis, MapReduce+Hadoop, 机器学习+TensorFlow
 
 - type: projects
-  name: 工作经验
+  name: 工作经验 百度国际化 测试开发工程师 变现负责人
   content:
   - title: 百度国际化测试开发工程师 - 变现方向负责人
     sub: 百度国际化
