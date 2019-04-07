@@ -101,7 +101,7 @@ main: #简历主要内容，
     - MapReduce
     - Python
     - Wordlog大数据
-    detail: 熟悉hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从大数据文件中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
+    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br>2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> 3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlo中的上屏率，输入成本等多项指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
     sub: 项目独立开发
     
   - title: BFE项目
