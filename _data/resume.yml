@@ -71,7 +71,7 @@ main: #简历主要内容，
     - 业务把控
     - 需求迭代
     - 测试skills
-    detail: 1)清楚了解国际化变现业务的架构部署，模块耦合，推荐算法，数据流，接口逻辑等<br> 1) 敏捷开发，个人story数量可达到10个／周；有主导产品线测试迭代的能力 <br>   &nbsp 3)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cutrloader等测试工具，有快速脚本专项测试能力 <br> &nbsp4)负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
+    detail: 1)清楚了解国际化变现业务的架构部署，模块耦合，推荐算法，数据流，接口逻辑等<br> &nbsp&nbsp2) 敏捷开发，个人story数量可达到10个／周；有主导产品线测试迭代的能力 <br>   &nbsp&nbsp3)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cutrloader等测试工具，有快速脚本专项测试能力 <br> &nbsp4&nbsp)负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
 
   - title: 自动化测试构建
     tags:
@@ -86,7 +86,7 @@ main: #简历主要内容，
     - 监控平台
     - json schema
     - 自研脚本python+php
-    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  2)调研schema接口描述语言，依托itp平台和自研脚本监控系统，保障了接口的字段级监控 <br>  3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控开发
+    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp&nbsp2)调研schema接口描述语言，依托itp平台和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp&nbsp3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控开发
     
   - title: 效率提升
     tags:
@@ -103,7 +103,7 @@ main: #简历主要内容，
     - MapReduce
     - Python
     - Wordlog大数据
-    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br>2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> 3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlo中的上屏率，输入成本等多项指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
+    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br>&nbsp&nbsp2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> &nbsp&nbsp3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlo中的上屏率，输入成本等多项指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
     sub: 项目独立开发
     
   - title: BFE项目
@@ -113,7 +113,7 @@ main: #简历主要内容，
     - 全球流量调度
     - BFE接入层
     - 容灾备案
-    detail: 1)团队BFE的接口人，团队自运维接入层迁移bfe的主导人 <br> 2）熟悉全球调度的DNS解析，就近接入和GSLB调度机制，能主导国际化产品线的域名流量解析，调度，转发和接入流程 <br>  3)跨部门沟通能力&产品线通用项目ownership
+    detail: 1)团队BFE的接口人，团队自运维接入层迁移bfe的主导人 <br> &nbsp&nbsp2）熟悉全球调度的DNS解析，就近接入和GSLB调度机制，能主导国际化产品线的域名流量解析，调度，转发和接入流程 <br>  &nbsp&nbsp3)跨部门沟通能力&产品线通用项目ownership
     sub: 主导人
     
   - title: 广告效率工具集
@@ -122,7 +122,7 @@ main: #简历主要内容，
     - VUE+php开发
     - 业务痛点
     - 效率提升
-    detail: 1)a.网盟入库定位、b.offer查询定位、c.策略badcase全自动挖掘，d.策略case对比分析工具<br> 2) 挖掘PM运营数据&RD挖掘badcase对比分析的效率痛点<br>3)定位效率问题，主动挖掘痛点，敏捷开发工具提升效率
+    detail: 1)a.网盟入库定位、b.offer查询定位、c.策略badcase全自动挖掘，d.策略case对比分析工具<br> &nbsp&nbsp2) 挖掘PM运营数据&RD挖掘badcase对比分析的效率痛点<br>3)定位效率问题，主动挖掘痛点，敏捷开发工具提升效率
     sub: Owner&开发者
     
   - title: hadoop平台下的MapReduce实践经验
