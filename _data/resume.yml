@@ -68,9 +68,10 @@ main: #简历主要内容，
     
   - title: 基础质量保障
     tags:
-    - 业务需求把控
+    - 业务把控
+    - 需求迭代
     - 测试skills
-    detail: 1) 敏捷开发，个人story数量可达到10个／周；有主导产品线测试迭代的能力 <br>    2)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cutrloader等测试工具，有快速脚本专项测试能力 <br>负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
+    detail: 1)清楚了解国际化变现业务的架构部署，模块耦合，推荐算法，数据流，接口逻辑等<br> 2) 敏捷开发，个人story数量可达到10个／周；有主导产品线测试迭代的能力 <br>    2)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cutrloader等测试工具，有快速脚本专项测试能力 <br>负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
 
   - title: 自动化测试构建
     tags:
@@ -91,7 +92,7 @@ main: #简历主要内容，
     tags:
     - 自研效率提升工具*4
     - vue+php
-    detail: 1) 2<\n>2
+    detail: 1) 维护稳定的线下代码库，线上线下分离，提供前后端RD&QA稳定的docker环境 2  2
     
 - type: projects
   name: 项目经验
@@ -115,16 +116,15 @@ main: #简历主要内容，
     detail: 1)团队BFE的接口人，团队自运维接入层迁移bfe的主导人 <br> 2）熟悉全球调度的DNS解析，就近接入和GSLB调度机制，能主导国际化产品线的域名流量解析，调度，转发和接入流程 <br>  3)跨部门沟通能力&产品线通用项目ownership
     sub: 主导人
     
-  - title: BFE项目
+  - title: 广告效率工具集
     duration: "6个月"
     tags:
-    - 全球服务部署
-    - 全球流量调度
-    - BFE接入层
-    - 容灾备案
-    detail: 熟悉hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从大数据文件中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
-    sub: 主导人
-  
+    - VUE+php开发
+    - 业务痛点
+    - 效率提升
+    detail: 1)a.网盟入库定位、b.offer查询定位、c.策略badcase全自动挖掘，d.策略case对比分析工具<br> 2) 挖掘PM运营数据&RD挖掘badcase对比分析的效率痛点<br>3)定位效率问题，主动挖掘痛点，敏捷开发工具提升效率
+    sub: Owner&开发者
+    
   - title: hadoop平台下的MapReduce实践经验
     duration: "研究生课程设计"
     tags:
@@ -145,25 +145,7 @@ main: #简历主要内容，
     - Tensorflow
     detail: 基于tensorflow和cifar图片库，在深度神经网络中使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，数据增强data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
     sub: 独立开发
-    
-  - title: 一个美妆网站的数据库和后台开发
-    duration: "研究生课程设计"
-    tags:
-    - PHP
-    - MySQL
-    - 前端
-    detail: http://playground.eca.ed.ac.uk/~s1626266/Sub2/MainPage.php。网站实现了登陆，按目录浏览，发帖，收藏，评论，分享至facebook等功能。 本人负责数据库的搭建和PHP后台的所有开发工作。能独立根据需要设计数据库，能熟练使用Mysql对数据库进行增删改查，能熟练使用PHP进行网站开发。
-    sub: 独立后台开发
-    
-  - title: 旅游经验分享网站的开发
-    duration: "本科毕业设计"
-    tags:
-    - Java Web
-    - MVC
-    - MySQL
-    detail: 负责MVC框架下的网站后台开发，以及数据库的搭建。熟悉MVC框架下JavaWeb的开发流程和基本方法。
-    sub: 独立开发
-    
+        
  # - title: hadoop平台下的MapReduce实践经验(Python)
   #  summary: hadoop平台下的MapReduce实践经验(Python)
   #  detail: 在研究生阶段，学习了hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从1.5G的数据中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
