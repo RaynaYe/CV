@@ -64,16 +64,16 @@ main: #简历主要内容，
     detail: 国际化变现项目是依托在simeji和facemoji产品上的变现业务。 该业务在不影响用户体验的情况下，通过巧妙的广告场景，基于大数据和ai的策略模型建设，稳定的服务和架构部署等，在输入法行业中实现了很高的变现能力。
     # open: open
     #可以设置open默认展开
-    - title: 使用DNN和CNN对Cifar图片集进行图像识别
-      duration: "研究生课程设计"
-      tags:
-      - Cifar10／100
-      - DNN，CNN
-      - 机器学习
-      - Python
-      - Tensorflow
-      detail: 基于tensorflow和cifar图片库，在深度神经网络中使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，数据增强data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
-      sub: 独立开发    
+  - title: 使用DNN和CNN对Cifar图片集进行图像识别
+    duration: "研究生课程设计"
+    tags:
+    - Cifar10／100
+    - DNN，CNN
+    - 机器学习
+    - Python
+    - Tensorflow
+    detail: 基于tensorflow和cifar图片库，在深度神经网络中使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，数据增强data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
+    sub: 独立开发    
 
 - type: projects
   name: 项目经验
