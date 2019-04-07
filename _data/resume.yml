@@ -44,6 +44,7 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - Python
     - PHP
+    - Shell
     - Java
   - title: Skill Group
     summary: odp, nginx, vue, Mysql，redis, MapReduce+Hadoop, 机器学习+TensorFlow
@@ -90,7 +91,7 @@ main: #简历主要内容，
     tags:
     - 自研效率提升工具*4
     - vue+php
-    detail: 1) 
+    detail: 1) 2<\n>2
     
 - type: projects
   name: 项目经验
@@ -111,7 +112,7 @@ main: #简历主要内容，
     - 全球流量调度
     - BFE接入层
     - 容灾备案
-    detail: 熟悉hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从大数据文件中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
+    detail: 1)团队BFE的接口人，团队自运维接入层迁移bfe的主导人 <br> 2）熟悉全球调度的DNS解析，就近接入和GSLB调度机制，能主导国际化产品线的域名流量解析，调度，转发和接入流程 <br>  3)跨部门沟通能力&产品线通用项目ownership
     sub: 主导人
     
   - title: BFE项目
@@ -121,17 +122,8 @@ main: #简历主要内容，
     - 全球流量调度
     - BFE接入层
     - 容灾备案
-    detail: 1)团队BFE的接口人，团队自运维接入层迁移bfe的主导人 <br> 2）熟悉全球调度的DNS解析，就近接入和GSLB调度机制，能主导国际化产品线的域名流量解析，调度，转发和接入流程 <br>  3)跨部门沟通能力&产品线通用项目ownership
+    detail: 熟悉hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从大数据文件中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
     sub: 主导人
-    
-  - title: 旅游经验分享网站的开发
-    duration: "本科毕业设计"
-    tags:
-    - Java Web
-    - MVC
-    - MySQL
-    detail: 负责MVC框架下的网站后台开发，以及数据库的搭建。熟悉MVC框架下JavaWeb的开发流程和基本方法。
-    sub: 独立开发
   
   - title: hadoop平台下的MapReduce实践经验
     duration: "研究生课程设计"
@@ -172,20 +164,6 @@ main: #简历主要内容，
     detail: 负责MVC框架下的网站后台开发，以及数据库的搭建。熟悉MVC框架下JavaWeb的开发流程和基本方法。
     sub: 独立开发
     
-  - title: 对ebay交易数据的爬虫，建表和空间搜索查询。
-    duration: "研究生课程设计"
-    tags:
-    - Java DOM
-    - Mysql
-    - 数据库范式
-    - Lucene
-    - MySQL's spatial queries
-    detail: 对ebay交易数据进行分析，设计满足第四范式的数据库。对XML格式的ebay交易数据文件进行爬虫并存入数据库中。可搜索与关键词相关的商品并按lucene score排序。 对特定处于某位置的商品，可搜索与其距离小于某个值的所有商品，并按照Lucene score排序。
-    sub: 独立开发
-
-    
-
-    
  # - title: hadoop平台下的MapReduce实践经验(Python)
   #  summary: hadoop平台下的MapReduce实践经验(Python)
   #  detail: 在研究生阶段，学习了hadoop系统的处理流程，能熟练利用mapreduce平台进行数据提取，归纳和处理。 例如：从1.5G的数据中提取仅出现过一次的单词，出现最多的句子；对报文文件进行爬虫，输出互相发送最多报文的用户和报文数量等。 理解MapReduce的工作原理，包括Shuffle and Sort过程，combiner的作用等。
@@ -200,9 +178,9 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '证书奖项'
   content: #选择需要的格式
-  - 南开大学功能奖学金，南开大学软件学院青志协外联部部长
-  - title: "国创项目:"
-    text: "大学期间参加国家创新型项目：基于双麦克风系统的音色过滤开发应用。 参与算法实践和项目开发，并作为第二作者发表论文至 SMCE 2015。"
+  - 2018年半年会教育&国际化&AI QA的体系优秀新人奖
+  - 2018年Q3的国际化团队优秀新人奖
+  - 专利审核中：《基于schema的自动化测试系统》
   - title: "英语:"
     items: #单行列表
     - 雅思总分7/9分, 阅读8.5分
