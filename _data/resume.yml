@@ -81,7 +81,7 @@ main: #简历主要内容，
     - json schema
     - 接口自动化测试系统
     - 持续CI集成
-    detail: 1) 参与线下环境docker化项目，负责变现方向的docker构建 <br>  &nbsp &nbsp  2)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cutrloader等测试工具，有快速脚本专项测试能力
+    detail: 1) 参与线下环境docker化项目，负责变现方向的docker构建,快速搭建的容器环境是自动化测试的基础 <br>  &nbsp &nbsp 2) 独立调研schema作为字段级别的接口描述语言，在自动化测试中校验json串 <br> &nbsp &nbsp 3)依附百度内部平台+schema的自动化测试机制，个人从无到有地完成产品线90%以上的接口自动化测试case初始化工作
 
   - title: 监控体系建设
     sub: 主导者
@@ -89,7 +89,7 @@ main: #简历主要内容，
     - 监控平台
     - json schema
     - 自研脚本python脚本
-    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)调研schema接口描述语言，依托itp平台和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控开发
+    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)调研schema接口描述语言，依托itp平台和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控和脚本开发
     
   - title: 效率提升
     sub: Owner&独立开发
