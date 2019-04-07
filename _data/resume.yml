@@ -56,10 +56,9 @@ main: #简历主要内容，
     duration: "2018年2月 - 2019年4月"
     tags:
     - T4工程师
-    - 服务端测试
     - PHP+python
-    - 质量保障体系建设
-    - VUE
+    - mysql+redis+ssdb+VUE
+    - hadoop+hive+机器学习
     #summary: 百度国际化变现后端质量保障；主导国际化变现后端的测试体系建
     detail: 国际化变现项目是依托在日文输入法simeji和欧美输入法facemoji上的变现业务。 该业务基于巧妙的广告场景，集成了大数据处理和高点击率的AI推荐排序模型，依托于稳定的odp服务和架构部署，在输入法行业中实现了很高的变现能力。
     # open: open
