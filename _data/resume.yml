@@ -69,8 +69,7 @@ main: #简历主要内容，
     - 需求迭代
     - 自动化测试体系
     - 监控体系
-    detail: 基于tensorflow和cifar图片库，在深度神经网络中使用各类方法如：激活函数(relu等)，卷积神经网络CNN，Dropout，正则化(L1, L2)，数据增强data augmentation，多种类池化(Pooling）和各类学习方法(梯度递减等)，降低图片识别过程中的过拟合，提高验证正确率。
-        
+    detail: 1
 
 - type: projects
   name: 项目经验
