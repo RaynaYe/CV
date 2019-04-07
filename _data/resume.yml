@@ -116,7 +116,7 @@ main: #简历主要内容，
     - MapReduce
     - Python
     - Wordlog大数据
-    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br> &nbsp &nbsp 2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> &nbsp &nbsp 3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlo中的上屏率，输入成本等多项指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
+    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br> &nbsp &nbsp 2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> &nbsp &nbsp 3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlog中的上屏率，输入成本等多项核心指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
     sub: 项目独立开发
     
   - title: BFE项目
@@ -132,7 +132,7 @@ main: #简历主要内容，
   - title: 广告效率工具集
     duration: "6个月"
     tags:
-    - VUE+php开发
+    - VUE+php前后开发
     - 业务痛点
     - 效率提升
     detail: 1)a.网盟入库定位、b.offer查询定位、c.策略badcase全自动挖掘，d.策略case对比分析工具<br> &nbsp &nbsp 2) 挖掘PM运营数据&RD挖掘badcase对比分析的效率痛点<br> &nbsp &nbsp 3)定位效率问题，主动挖掘痛点，敏捷开发工具提升效率
