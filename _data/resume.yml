@@ -132,10 +132,10 @@ main: #简历主要内容，
   - title: 广告效率工具集
     duration: "6个月"
     tags:
-    - VUE+php前后开发
+    - VUE+php前后端开发
     - 业务痛点
     - 效率提升
-    detail: 1)a.网盟入库定位、b.offer查询定位、c.策略badcase全自动挖掘，d.策略case对比分析工具<br> &nbsp &nbsp 2) 挖掘PM运营数据&RD挖掘badcase对比分析的效率痛点<br> &nbsp &nbsp 3)定位效率问题，主动挖掘痛点，敏捷开发工具提升效率
+    detail: 1)a.网盟入库定位、b.offer查询定位、c.策略badcase全自动挖掘，d.策略case对比分析工具<br> &nbsp &nbsp 2) 挖掘PM运营数据&RD挖掘badcase对比分析的效率痛点<br> &nbsp &nbsp 3)定位效率问题，主动挖掘痛点，敏捷开发工具提升效率，具有web前后端开发能力
     sub: Owner&开发者
     
   - title: hadoop平台下的MapReduce实践经验
