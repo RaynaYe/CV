@@ -96,7 +96,7 @@ main: #简历主要内容，
     - 监控平台
     - json schema
     - 自研脚本python脚本
-    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)调研schema接口描述语言，依托itp平台和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控和脚本开发
+    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)调研schema接口描述语言，依托itp平台和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控和脚本开发<br> &nbsp &nbsp 4)负责添加和维护线上监控，对线上报警敏感，有一定的运维能力和问题追查能力
     
   - title: 效率提升
     sub: Owner&独立开发
