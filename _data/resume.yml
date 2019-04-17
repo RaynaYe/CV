@@ -59,11 +59,11 @@ main: #简历主要内容，
 - type: projects
   name: 工作经验 
   content:
-  - title: 测试开发工程师 - 变现后端测试方向负责人
-    sub: 百度国际化
+  - title: 测试开发工程师 - 百度国际化
+    sub: T3-T4
     duration: "2018年2月 - 2019年4月"
     tags:
-    - T4工程师
+    - 质量保障
     - PHP+python
     - mysql+redis+ssdb
     - VUE
