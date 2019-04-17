@@ -69,7 +69,8 @@ main: #简历主要内容，
     - VUE
     - hadoop+hive+spark+机器学习
     #summary: 百度国际化变现后端质量保障；主导国际化变现后端的测试体系建
-    detail: 国际化变现项目是依托在日文输入法simeji和欧美输入法facemoji上的变现业务。 该业务基于巧妙的广告场景，集成了大数据处理和高点击率的AI推荐排序模型，依托于稳定的odp服务和全球多idc的架构部署，在输入法行业中实现了很高的变现能力。
+    #detail: 国际化变现项目是依托在日文输入法simeji和欧美输入法facemoji上的变现业务。 该业务基于巧妙的广告场景，集成了大数据处理和高点击率的AI推荐排序模型，依托于稳定的odp服务和全球多idc的架构部署，在输入法行业中实现了很高的变现能力。
+    detail: 负责国际化变现后端质量保障工作，主导测试体系建设。
     # open: open
     #可以设置open默认展开
     
@@ -88,7 +89,7 @@ main: #简历主要内容，
     - json schema
     - 接口自动化测试系统
     - 持续CI集成
-    detail: 1) 参与线下环境docker化项目，负责变现方向的docker构建,快速搭建的容器环境是自动化测试的基础 <br>  &nbsp &nbsp 2) 独立调研schema作为字段级别的接口描述语言，在自动化测试中校验json串 <br> &nbsp &nbsp 3)依附百度内部平台+schema的自动化测试机制，个人从无到有地完成产品线90%以上的接口自动化测试case初始化工作
+    detail: 1) 参与线下环境docker化项目，负责变现方向的docker构建，构造自动化测试的基础 <br>  &nbsp &nbsp 2) 独立调研schema作为字段级别的接口描述语言，在自动化测试中校验起强校验作用 <br> &nbsp &nbsp 3)依附百度内部平台+schema的自动化测试机制，个人从无到有地完成产品线90%以上的接口自动化测试case初始化工作
 
   - title: 监控体系建设
     sub: 主导者
@@ -96,7 +97,7 @@ main: #简历主要内容，
     - 监控平台
     - json schema
     - 自研脚本python脚本
-    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)调研schema接口描述语言，依托itp平台和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控和脚本开发<br> &nbsp &nbsp 4)负责添加和维护线上监控，对线上报警敏感，有一定的运维能力和问题追查能力
+    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)依托itp平台+schema和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控和脚本开发<br> &nbsp &nbsp 4)负责添加和维护线上监控，对线上报警敏感，有一定的运维能力和问题追查能力
     
   - title: 效率提升
     sub: Owner&独立开发
