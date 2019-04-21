@@ -81,7 +81,7 @@ main: #简历主要内容，
     - 业务把控
     - 需求迭代
     - 测试skills
-    detail: 1)业务掌控：国际化变现业务的架构部署，模块耦合，推荐算法，数据流，接口逻辑等<br> &nbsp &nbsp 2) 主导产品线测试迭代，带领正式员工一人，个人story数量约10+个／周 <br>   &nbsp &nbsp 3)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cuteloader等测试工具，有快速脚本专项测试能力 <br> &nbsp &nbsp 4)负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
+    detail: 1)业务掌控：国际化变现业务的架构部署，模块耦合，推荐算法，数据流，接口逻辑等<br> &nbsp &nbsp 2) 主导产品线测试迭代:带领正式员工一人，个人story数量约10+个／周 <br>   &nbsp &nbsp 3)测试skills： 能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cuteloader等测试工具，有快速脚本专项测试能力 <br> &nbsp &nbsp 4)线下稳定环境：负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
 
   - title: 自动化测试系统
     sub: 主导者
@@ -90,7 +90,7 @@ main: #简历主要内容，
     - json schema
     - 接口自动化测试系统
     - 持续CI集成
-    detail: 1) 参与线下环境docker化项目，负责变现方向的docker构建 <br>  &nbsp &nbsp 2) 独立调研schema作为字段级别的接口描述语言，在自动化测试中校验起强校验作用 <br> &nbsp &nbsp 3)依附百度内部平台+schema的自动化测试机制，个人从无到有地完成产品线90%以上的接口自动化测试case初始化工作
+    detail: 1) 线下环境容器化：参与线下环境docker化项目，负责变现方向的docker构建 <br>  &nbsp &nbsp 2) 自动化测试机制：独立调研schema作为字段级别的接口描述语言，在自动化测试中校验起强校验作用 <br> &nbsp &nbsp 3)自动化case沉淀：个人从无到有地完成产品线90%以上的接口自动化测试case初始化工作
 
   - title: 监控体系建设
     sub: 主导者
@@ -98,7 +98,7 @@ main: #简历主要内容，
     - 监控平台
     - json schema
     - 自研脚本python脚本
-    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)自研schema脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php接口和脚本开发<br> &nbsp &nbsp 4)负责添加和维护线上监控，有一定的运维能力和问题追查能力
+    detail: 1) 主导变现监控体系建设：Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)schema监控系统： 自研schema脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)代码能力： 具有快速构建python监控脚本框架的能力，熟练掌握odp下的php接口和脚本开发，有VUE前端开发能力<br> &nbsp &nbsp 4)运维能力：负责添加和维护线上监控，有一定的运维能力和问题追查能力
     
   - title: 效率提升
     sub: Owner&独立开发
