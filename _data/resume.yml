@@ -46,11 +46,12 @@ main: #简历主要内容，
     - PHP
     - Shell
     - Java
-  - title: Skill Group
+    - VUE
+  - title: 技术栈
     items:
     - ODP
     - Nginx
-    - VUE
+    - Linux
     - Mysql
     - Redis
     - MapReduce+Hadoop
@@ -80,7 +81,7 @@ main: #简历主要内容，
     - 业务把控
     - 需求迭代
     - 测试skills
-    detail: 1)清楚了解国际化变现业务的架构部署，模块耦合，推荐算法，数据流，接口逻辑等<br> &nbsp &nbsp 2) 主导产品线测试迭代，带领正式员工一人，个人story数量约10+个／周 <br>   &nbsp &nbsp 3)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cuteloader等测试工具，有快速脚本专项测试能力 <br> &nbsp &nbsp 4)负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
+    detail: 1)业务掌控：国际化变现业务的架构部署，模块耦合，推荐算法，数据流，接口逻辑等<br> &nbsp &nbsp 2) 主导产品线测试迭代，带领正式员工一人，个人story数量约10+个／周 <br>   &nbsp &nbsp 3)能熟练完成接口测试，存储测试，性能测试，推荐模型测试等测试项目，掌握jmeter，postman，cuteloader等测试工具，有快速脚本专项测试能力 <br> &nbsp &nbsp 4)负责维护稳定的线下环境和代码库，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化构建
 
   - title: 自动化测试系统
     sub: 主导者
@@ -89,7 +90,7 @@ main: #简历主要内容，
     - json schema
     - 接口自动化测试系统
     - 持续CI集成
-    detail: 1) 参与线下环境docker化项目，负责变现方向的docker构建，构造自动化测试的基础 <br>  &nbsp &nbsp 2) 独立调研schema作为字段级别的接口描述语言，在自动化测试中校验起强校验作用 <br> &nbsp &nbsp 3)依附百度内部平台+schema的自动化测试机制，个人从无到有地完成产品线90%以上的接口自动化测试case初始化工作
+    detail: 1) 参与线下环境docker化项目，负责变现方向的docker构建 <br>  &nbsp &nbsp 2) 独立调研schema作为字段级别的接口描述语言，在自动化测试中校验起强校验作用 <br> &nbsp &nbsp 3)依附百度内部平台+schema的自动化测试机制，个人从无到有地完成产品线90%以上的接口自动化测试case初始化工作
 
   - title: 监控体系建设
     sub: 主导者
@@ -97,7 +98,7 @@ main: #简历主要内容，
     - 监控平台
     - json schema
     - 自研脚本python脚本
-    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)依托itp平台+schema和自研脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php监控和脚本开发<br> &nbsp &nbsp 4)负责添加和维护线上监控，对线上报警敏感，有一定的运维能力和问题追查能力
+    detail: 1) 主导变现监控体系建设，Monitor+Noah+ITP(schame)+自研脚本四个维度保障线上质量<br>  &nbsp &nbsp 2)自研schema脚本监控系统，保障了接口的字段级监控 <br>  &nbsp &nbsp 3)具有快速构建python监控脚本框架的能力，熟练掌握odp下的php接口和脚本开发<br> &nbsp &nbsp 4)负责添加和维护线上监控，有一定的运维能力和问题追查能力
     
   - title: 效率提升
     sub: Owner&独立开发
@@ -106,7 +107,7 @@ main: #简历主要内容，
     - 自研4个变现效率提升工具
     - 日志回归工具
     - 开发框架：vue+php(odp)
-    detail: 1) 负责维护稳定的线下代码库，线上线下分离，提供前后端RD&QA稳定的docker环境，提高测试和联调效率 <br> &nbsp &nbsp 2) 独立研发变现效率提升工具4个 <br> &nbsp &nbsp 3)独立开发日志自动回归工具，集成至jenkins job流水线中代替人为check日志
+    detail: 1) 稳定线下环境&持续CI集成维护，提供前后端RD&QA稳定的docker联调测试环境 <br> &nbsp &nbsp 2) 独立开发日志回归，badcase挖掘，模型调参等效率提升工具  <br> &nbsp &nbsp 2) 接口自动化测试系统
     
 - type: projects
   name: 项目经验
@@ -117,7 +118,7 @@ main: #简历主要内容，
     - MapReduce
     - Python
     - Wordlog大数据
-    detail: 1)wordlog是脱敏的输入法键盘行为日志,对输入精度评测，错词纠正，热词运营等多个方面具有很重要的作用 <br> &nbsp &nbsp 2)在1周内接手老旧的wordlog解析代码，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> &nbsp &nbsp 3)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlog中的上屏率，输入成本等多项核心指标并监控，拦截输入法的词典更新中的3+个精度问题。有快速mapreduce的开发能力，有工程化处理大数据的经验。
+    detail: 1)1周内完成老旧的wordlog解析重构，并完成了采集，解析，解密，提取预料，上传hadoop的全流程 <br> &nbsp &nbsp 2)独立开发了wordlog的质量和数量监控。基于mapreduce统计wordlog中的上屏率，输入成本等多项核心指标并监控，拦截输入法的词典更新中的3+个精度问题。 <br> &nbsp &nbsp 3)有快速mapreduce的开发能力，有工程化处理大数据的经验。
     sub: 项目独立开发
     
   - title: BFE项目
