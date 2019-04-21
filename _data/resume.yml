@@ -107,7 +107,7 @@ main: #简历主要内容，
     - 自研4个变现效率提升工具
     - 日志回归工具
     - 开发框架：vue+php(odp)
-    detail: 1) 稳定线下环境&持续CI集成维护，提供前后端RD&QA稳定的docker联调测试环境 <br> &nbsp &nbsp 2) 独立开发日志回归，badcase挖掘，模型调参等效率提升工具  <br> &nbsp &nbsp 2) 接口自动化测试系统
+    detail: 1) 稳定线下环境&持续CI集成维护，熟练redis，mysql，odp等环境环境的搭建，参与产品线线下环境容器化，提供前后端RD&QA稳定的docker联调测试环境 <br> &nbsp &nbsp 2) 独立开发日志回归，badcase挖掘，模型调参等效率提升工具  <br> &nbsp &nbsp 2) 接口自动化测试系统
     
 - type: projects
   name: 项目经验
